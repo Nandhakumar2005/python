@@ -1,3 +1,7 @@
+'''author:Nandhakumar KS
+date:1\10\2024
+student details'''
+
 name=input('enter your name:')
 Roll_number=int(input('enter your roll number:'))
 Roll_number=Roll_number+1
